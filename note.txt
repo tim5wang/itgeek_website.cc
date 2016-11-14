@@ -1,0 +1,6 @@
+git init [directery]创建git仓库
+git add [filename]添加文件
+git commit [commit name]创建版本名称
+git push 推送版本到本地仓库
+git log 查看版本日志
+
